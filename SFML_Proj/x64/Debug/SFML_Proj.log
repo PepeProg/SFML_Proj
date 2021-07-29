@@ -1,0 +1,46 @@
+﻿  main.cpp
+C:\Users\vladg\Desktop\projects c++\SFML_Proj\SFML_Proj\view.h(20,18): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\vladg\Desktop\projects c++\SFML_Proj\SFML_Proj\view.h(22,17): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\vladg\Desktop\projects c++\SFML_Proj\SFML_Proj\view.h(24,20): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\vladg\Desktop\projects c++\SFML_Proj\SFML_Proj\view.h(26,21): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\vladg\Desktop\projects c++\SFML_Proj\SFML_Proj\main.cpp(31,64): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\vladg\Desktop\projects c++\SFML_Proj\SFML_Proj\main.cpp(31,57): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\vladg\Desktop\projects c++\SFML_Proj\SFML_Proj\main.cpp(31,48): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\vladg\Desktop\projects c++\SFML_Proj\SFML_Proj\main.cpp(31,39): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\vladg\Desktop\projects c++\SFML_Proj\SFML_Proj\main.cpp(70,14): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\vladg\Desktop\projects c++\SFML_Proj\SFML_Proj\main.cpp(71,15): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\vladg\Desktop\projects c++\SFML_Proj\SFML_Proj\main.cpp(77,24): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\vladg\Desktop\projects c++\SFML_Proj\SFML_Proj\main.cpp(81,24): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\vladg\Desktop\projects c++\SFML_Proj\SFML_Proj\main.cpp(105,62): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\vladg\Desktop\projects c++\SFML_Proj\SFML_Proj\main.cpp(115,14): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+C:\Users\vladg\Desktop\projects c++\SFML_Proj\SFML_Proj\main.cpp(149,33): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\vladg\Desktop\projects c++\SFML_Proj\SFML_Proj\main.cpp(152,23): warning C4305: =: усечение из "double" в "float"
+C:\Users\vladg\Desktop\projects c++\SFML_Proj\SFML_Proj\main.cpp(156,33): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\vladg\Desktop\projects c++\SFML_Proj\SFML_Proj\main.cpp(159,23): warning C4305: =: усечение из "double" в "float"
+C:\Users\vladg\Desktop\projects c++\SFML_Proj\SFML_Proj\main.cpp(163,33): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\vladg\Desktop\projects c++\SFML_Proj\SFML_Proj\main.cpp(166,23): warning C4305: =: усечение из "double" в "float"
+C:\Users\vladg\Desktop\projects c++\SFML_Proj\SFML_Proj\main.cpp(170,33): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\vladg\Desktop\projects c++\SFML_Proj\SFML_Proj\main.cpp(173,23): warning C4305: =: усечение из "double" в "float"
+C:\Users\vladg\Desktop\projects c++\SFML_Proj\SFML_Proj\main.cpp(191,19): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\vladg\Desktop\projects c++\SFML_Proj\SFML_Proj\main.cpp(192,18): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\vladg\Desktop\projects c++\SFML_Proj\SFML_Proj\main.cpp(193,18): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\vladg\Desktop\projects c++\SFML_Proj\SFML_Proj\main.cpp(195,22): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\vladg\Desktop\projects c++\SFML_Proj\SFML_Proj\main.cpp(196,18): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\vladg\Desktop\projects c++\SFML_Proj\SFML_Proj\main.cpp(197,21): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  SFML_Proj.vcxproj -> C:\Users\vladg\Desktop\projects c++\SFML_Proj\x64\Debug\SFML_Proj.exe
